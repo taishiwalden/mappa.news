@@ -100,10 +100,30 @@
 						<img src="assets/img/demo/mappa-logo-transparent.png" width="70" height="70">
 						<h3 class="heading mt-4">Mappa Membership <span class="badge badge-danger">BETA</span></h3>
 						<p>
-							Are you part of the 65%? Join the thousands of visual learners in the Mappa Community.
+							Are you part of the 65%? Join the thousands of visual learners signing up for the Mappa
+							Community.
 						</p>
 						<p>
-							<em class="text-muted">You can add any HTML in the body.</em>
+						<form name="contact" method="POST" data-netlify="true">
+							<div class="form-group">
+								<input type="email" class="form-control" id="exampleInputEmail1"
+									aria-describedby="emailHelp" placeholder="Enter email" required="" name="email">
+								<small id="emailHelp" class="form-text text-muted">We'll send you an email 2 weeks
+									before we
+									launch.</small>
+							</div>
+							<!-- <div class="form-group">
+								<input type="password" class="form-control" id="exampleInputPassword1"
+									placeholder="Password" required="">
+							</div> -->
+							<div class="form-group form-check">
+								<input type="checkbox" class="form-check-input" id="exampleCheck1">
+								<label class="form-check-label" for="exampleCheck1" name="email">Would you pay for a
+									Mappa
+									Membership?</label>
+							</div>
+							<button type="submit" class="btn btn-success btn-round">Sign up</button>
+						</form>
 						</p>
 					</div>
 				</div>
