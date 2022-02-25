@@ -54,7 +54,7 @@
 				</ul>
 				<ul class="navbar-nav ml-auto d-flex align-items-center">
 					<li class="nav-item highlight">
-						<a class="nav-link"
+						<a class="nav-link" data-toggle="modal" data-target="#exampleModalCenter"
 							href="https://www.wowthemes.net/mundana-free-html-bootstrap-template/">BECOME A MEMBER</a>
 					</li>
 				</ul>
@@ -94,6 +94,55 @@
 		</div>
 	</div>
 	<!-- End Header -->
+
+	<!-- The modal itself -->
+	<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+		aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-header border-0">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">×</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="pb-4 pr-4 pl-4 text-center">
+						<img src="assets/img/demo/mappa-logo-transparent.png" width="70" height="70">
+						<h3 class="heading mt-4">Mappa Pro <span class="badge badge-info">BETA</span></h3>
+						<p>
+							Are you part of the 65%? Join the thousands of visual learners signing up for the Mappa
+							Community.
+						</p>
+						<p>
+						<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+							<div class="form-group">
+								<input type="email" class="form-control" id="exampleInputEmail1"
+									aria-describedby="emailHelp" placeholder="Enter email" required="" name="email">
+								<small id="emailHelp" class="form-text text-muted">We'll send you an email 2 weeks
+									before we
+									launch.</small>
+								</p>
+								<div data-netlify-recaptcha="true"></div>
+								<p>
+							</div>
+							<!-- <div class="form-group">
+								<input type="password" class="form-control" id="exampleInputPassword1"
+									placeholder="Password" required="">
+							</div> -->
+							<div class="form-group form-check">
+								<input type="checkbox" class="form-check-input" id="exampleCheck1">
+								<label class="form-check-label" for="exampleCheck1" name="pay">Would you pay for a
+									Mappa
+									Membership?</label>
+							</div>
+							<button type="submit" class="btn btn-success btn-round">Sign up</button>
+						</form>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<!--------------------------------------MAIN--------------------------------------->
 	<div class="container pt-4 pb-4">
