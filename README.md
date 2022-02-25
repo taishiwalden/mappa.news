@@ -1,18 +1,12 @@
-# Mundana - Free Bootstrap HTML Blogging Template
+# Mappa – The visual way to learn about current events
 
-Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
+Browse our website for just 10 minutes a day and learn about the world.
 
-[Live Demo](https://wowthemesnet.github.io/template-mundana-bootstrap-html/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-mundana-bootstrap-html/archive/master.zip)
-
-[![screenshot](assets/img/screenshot-mundana.png)](https://wowthemesnet.github.io/template-mundana-bootstrap-html/)
-
-## Getting Started
-
-* [Theme Details](https://www.wowthemes.net/mundana-free-html-bootstrap-template/)
-* [Documentation](https://wowthemesnet.github.io/template-mundana-bootstrap-html/docs.html).
+<img width="1440" alt="Screen Shot 2022-02-25 at 1 21 49 AM" src="https://user-images.githubusercontent.com/75241036/155689469-ce53aaad-c40f-4b96-9acb-6fbbcd29ce99.png">
 
 ## Built With
 
+Used the Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Gulp](https://gulpjs.com/)
 * [SASS](https://sass-lang.com/)
