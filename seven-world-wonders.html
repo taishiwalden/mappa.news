@@ -241,12 +241,25 @@
                         </div>
                         <div class="col-md-7">
                             <div class="row">
-                                <div class="col-md-12">
-                                    <input type="text" class="form-control" placeholder="Enter your e-mail address">
-                                </div>
-                                <div class="col-md-12 mt-2">
-                                    <button type="submit" class="btn btn-success btn-block">Subscribe</button>
-                                </div>
+                                <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="exampleInputEmail1"
+                                            aria-describedby="emailHelp" placeholder="Enter email" required=""
+                                            name="email">
+                                        <small id="emailHelp" class="form-text text-muted">We'll send you an email 2
+                                            weeks
+                                            before we
+                                            launch.</small>
+                                        </p>
+                                        <div data-netlify-recaptcha="true"></div>
+                                        <p>
+                                    </div>
+                                    <!-- <div class="form-group">
+                                    <input type="password" class="form-control" id="exampleInputPassword1"
+                                        placeholder="Password" required="">
+                                    </div> -->
+                                    <button type="submit" class="btn btn-success btn-round">Sign up</button>
+                                </form>
                             </div>
                         </div>
                     </div>
