@@ -8,13 +8,17 @@ Browse our website for just 10 minutes a day and learn about the world.
 
 Used the Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 * [Bootstrap](https://github.com/twbs/bootstrap)
+* Google Analytics
 * [Gulp](https://gulpjs.com/)
 * [SASS](https://sass-lang.com/)
+
+## Deployment
+
+* CI/CD hosting on [Netlify](https://netlify.com/)
 
 ## Copyright
 
 Copyright (C) 2019 WowThemes.net.
-
 Designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
 <a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
@@ -22,7 +26,6 @@ Designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT lic
 ## Contribute
 
 Let's make this even better!
-
 - [Clone the repo](https://github.com/wowthemesnet/template-mundana-bootstrap-html.git).
 - Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
 - Open a pull request on GitHub and describe the feature or fix.
