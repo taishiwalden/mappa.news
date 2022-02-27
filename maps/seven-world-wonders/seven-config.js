@@ -95,7 +95,8 @@ var config = {
         {
             id: "bo1lysqbm6r8wu60e2e86nvmt1n5q8cl",
             title: "6. Petra, Jordan",
-            description: "Add text here",
+            description:
+                "Originally known to its inhabitants as Raqmu, Petra is a historical and archaeological city in southern Jordan. It is believed that the area around Petra was inhabited as early as 7,000 BC, and the access to the city is through a 1.2-kilometre-long gorge called the Siq, which leads directly to the Khazneh. Petra is also called as ‘Rose City’ due to the colour of the stone from which it is carved.",
             location: {
                 center: [36.101, 51.216],
                 zoom: 7,
@@ -107,7 +108,8 @@ var config = {
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
             title: "7. the Great Wall of China",
-            description: "Add text here",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
             location: {
                 center: [110.78, 40.198],
                 zoom: 5.63,
@@ -119,7 +121,8 @@ var config = {
         {
             id: "t8prwxafovqw4ieem0w1ymfmsqxazpav",
             title: "Summary",
-            description: "Add text here",
+            description:
+                "Given that the original Seven Wonders list was compiled in the 2nd century BCE, it seemed time for an update. And after more than than 100 million votes were cast on the Internet or by text messaging, the final results, were met with cheers as well as some jeers—a number of prominent contenders, such as Kiyomizu Temple, failed to make the cut. What do you think?",
             location: {
                 center: [-35.016, 3.026],
                 zoom: 1.87,
@@ -131,7 +134,9 @@ var config = {
         {
             id: "nq6v66f45ow16xzfgo46zdo5o3a7lgo6",
             title: "Credit",
-            description: "Add text here",
+            description:
+                "https://www.britannica.com/list/new-seven-wonders-of-the-world" +
+                "https://www.india.com/travel/articles/all-you-need-to-know-about-the-seven-wonders-of-the-world-4009192/",
             location: {
                 center: [-35.016, 3.026],
                 zoom: 1.87,
