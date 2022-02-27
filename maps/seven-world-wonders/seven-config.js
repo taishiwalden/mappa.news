@@ -46,7 +46,7 @@ var config = {
             description:
                 "Also known as the Flavian Amphitheatre, the Colosseum is an oval-shaped amphitheater located in the centre of Rome in Italy. It is the largest amphitheater in the world, and had the capacity to host about 80,000 spectators. In ancient times, it was used for gladiatorial contests and public spectacles such as mock sea battles.",
             location: {
-                center: [41.891, 12.47],
+                center: [12.47, 41.891],
                 zoom: 12.49,
                 pitch: 0,
                 bearing: 0,
@@ -59,7 +59,7 @@ var config = {
             description:
                 "Chichen Itza is an archaeological site located in Tinum Municipality of Yucatan State in Mexico. It was a large pre-Columbian city built by the Maya people, and was likely to have been one of the mythical great cities. It is one of the most visited archaeological sites in Mexico, and consists of buildings like the El Caracol or observatory of Chichen Itza, Temple of the Warriors, Grand Ballcourt, Venus Platform, and others.",
             location: {
-                center: [20.288, -90.66],
+                center: [-90.66, 20.288],
                 zoom: 5.48,
                 pitch: 0,
                 bearing: 0,
@@ -72,7 +72,7 @@ var config = {
             description:
                 "Located in the Eastern Cordillera of southern Peru on a 7,970 ft mountain ridge, Machu Picchu is a 15th-century Inca citadel. It is the most familiar icon of Inca civilization, and is often mistaken for the ‘Lost City of the Incas’.",
             location: {
-                center: [-13.203, -74.881],
+                center: [-74.881, -13.203],
                 zoom: 5.31,
                 pitch: 0,
                 bearing: 0,
@@ -85,7 +85,7 @@ var config = {
             description:
                 "A very well known work of art in Brazil, Christ the Redeemer is an Art Deco statue of Jesus Christ. Made of reinforced concrete and soapstone, it weighs 635 metric tons and is located at the peak of the 700-metre Corcovado mountain in the Tijuca Forest National Park overlooking the city of Rio de Janeiro. Construction began in 1922 and it was completed in 1931.",
             location: {
-                center: [39.988, 15.712],
+                center: [15.712, 39.988],
                 zoom: 13.29,
                 pitch: 0,
                 bearing: 0,
@@ -97,7 +97,7 @@ var config = {
             title: "6. Petra, Jordan",
             description: "Add text here",
             location: {
-                center: [51.216, 36.101],
+                center: [36.101, 51.216],
                 zoom: 7,
                 pitch: 0,
                 bearing: 0,
@@ -109,8 +109,8 @@ var config = {
             title: "7. the Great Wall of China",
             description: "Add text here",
             location: {
-                center: [29.572, 41.141],
-                zoom: 7.19,
+                center: [110.78, 40.198],
+                zoom: 5.63,
                 pitch: 0,
                 bearing: 0,
             },
@@ -133,8 +133,8 @@ var config = {
             title: "Credit",
             description: "Add text here",
             location: {
-                center: [3.056, 51.658],
-                zoom: 5.02,
+                center: [-35.016, 3.026],
+                zoom: 1.87,
                 pitch: 0,
                 bearing: 0,
             },
