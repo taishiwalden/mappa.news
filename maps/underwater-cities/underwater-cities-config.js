@@ -25,43 +25,43 @@ var config = {
             },
         },
 
-        //1. Taj Mahal           The start of           "UNDERWATER CITIES"
+        //1. Tokyo, Japan           The start of           "UNDERWATER CITIES"
         {
             id: "5c76ad75992aaac989465955479e2fb4",
-            title: "1. The Taj Mahal",
+            title: "1. Tokyo, Japan",
             description:
-                "The Taj Mahal is known the world over for its beautiful architecture, history and the tale of love that led to its creation. ",
+                "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. POP SIZE: 37.43 million",
             location: {
-                center: [74.1, 26.286],
-                zoom: 5.18,
-                pitch: 0,
-                bearing: 0,
+                center: [139.77034, 35.69222],
+                zoom: 10.4,
+                pitch: 48.0,
+                bearing: 11.2,
             },
         },
 
-        //2. The Colosseum
+        //2. Osaka, Japan
         {
             id: "7ba8dfb2d8196a463676254236476581",
-            title: "2. The Colosseum",
+            title: "2. Osaka, Japan",
             description:
-                "Also known as the Flavian Amphitheatre, the Colosseum is an oval-shaped amphitheater located in the centre of Rome in Italy. It is the largest amphitheater in the world, and had the capacity to host about 80,000 spectators. In ancient times, it was used for gladiatorial contests and public spectacles such as mock sea battles.",
+                "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. POP SIZE: 19.22 million",
             location: {
-                center: [12.47, 41.891],
-                zoom: 12.49,
-                pitch: 0,
-                bearing: 0,
+                center: [135.39508, 34.66246],
+                zoom: 9.25,
+                pitch: 47.0,
+                bearing: 18.4,
             },
         },
-        //3. Chichen Itza
+        //3. New York City, USA
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "3. Chichen Itza",
+            title: "3. New York City, United States",
             description:
-                "Chichen Itza is an archaeological site located in Tinum Municipality of Yucatan State in Mexico. It was a large pre-Columbian city built by the Maya people, and was likely to have been one of the mythical great cities. It is one of the most visited archaeological sites in Mexico, and consists of buildings like the El Caracol or observatory of Chichen Itza, Temple of the Warriors, Grand Ballcourt, Venus Platform, and others.",
+                "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POP SIZE: 20.15 million",
             location: {
-                center: [-90.66, 20.288],
-                zoom: 5.48,
-                pitch: 0,
+                center: [-73.98032, 40.70273],
+                zoom: 10.2,
+                pitch: 43.5,
                 bearing: 0,
             },
         },
