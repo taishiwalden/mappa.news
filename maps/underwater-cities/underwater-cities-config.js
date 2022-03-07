@@ -3,7 +3,7 @@
 var config = {
     style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
-    title: "The First Major Cities to go Underwater", //TODO
+    title: "The First 12 Major Cities to go Underwater", //TODO
     subtitle: "Cities Ranked by Population", //TODO
     byline: "By Taishi Walden", //TODO
     footer: "©2022 Taishi Walden",
@@ -16,7 +16,7 @@ var config = {
             id: "48d352fe5c88b29680f9ce8d7a233191",
             title: "Introduction",
             description:
-                "Our world is filled with the most unique structures that are both man-made and natural. Some of the man-made creations include churches, tombs, temples, monuments, mosques, buildings and even cities. These structures have withstood the test of time and they continue to leave many awestruck with their brilliance. There are many in the world, but here are the 7 World Wonders as voted by 10 million people.",
+                "There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. No one can predict exactly when, however, based on simple elevation maps, we can predict which major world cities are most likely to be underwater first.",
             location: {
                 center: [2.65, 9.22],
                 zoom: 1.08,
