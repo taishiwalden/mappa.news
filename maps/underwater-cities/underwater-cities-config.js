@@ -1,7 +1,7 @@
 // this is for the 7 World Wonders scrollytelling map
 
 var config = {
-    style: "mapbox://styles/taishiwalden/cl05rca5l005i14p5nyakwibb", //TODO
+    style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "The First Major Cities to go Underwater", //TODO
     subtitle: "Cities Ranked by Population", //TODO
@@ -18,8 +18,8 @@ var config = {
             description:
                 "Our world is filled with the most unique structures that are both man-made and natural. Some of the man-made creations include churches, tombs, temples, monuments, mosques, buildings and even cities. These structures have withstood the test of time and they continue to leave many awestruck with their brilliance. There are many in the world, but here are the 7 World Wonders as voted by 10 million people.",
             location: {
-                center: [-35.016, 3.026],
-                zoom: 1.87,
+                center: [2.65, 9.22],
+                zoom: 1.08,
                 pitch: 0,
                 bearing: 0,
             },
