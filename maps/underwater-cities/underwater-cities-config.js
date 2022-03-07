@@ -16,7 +16,7 @@ var config = {
             id: "48d352fe5c88b29680f9ce8d7a233191",
             title: "Overview",
             description:
-                "There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. No one can predict exactly when, however, based on simple elevation maps, we can predict which major world cities are most likely to be underwater first.",
+                "There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. No one can predict exactly when, however, based on simple elevation maps, we can predict which major world cities are most likely to be underwater first. The maps we show depict the impact once sea levels rise 1.5 meters (5 ft) which is likely should global temperatures increase by 3°C (5.4°F).",
             location: {
                 center: [2.65, 9.22],
                 zoom: 1.08,
