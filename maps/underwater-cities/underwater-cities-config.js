@@ -117,6 +117,71 @@ var config = {
                 bearing: 0,
             },
         },
+        //8.
+        {
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "7. the Great Wall of China",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
+            location: {
+                center: [110.78, 40.198],
+                zoom: 5.63,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //9.
+        {
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "7. the Great Wall of China",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
+            location: {
+                center: [110.78, 40.198],
+                zoom: 5.63,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //10.
+        {
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "7. the Great Wall of China",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
+            location: {
+                center: [110.78, 40.198],
+                zoom: 5.63,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //11.
+        {
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "7. the Great Wall of China",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
+            location: {
+                center: [110.78, 40.198],
+                zoom: 5.63,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //12.
+        {
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "7. the Great Wall of China",
+            description:
+                "As the name suggests, it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires.",
+            location: {
+                center: [110.78, 40.198],
+                zoom: 5.63,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
         //Summary
         {
             id: "t8prwxafovqw4ieem0w1ymfmsqxazpav",
