@@ -1,4 +1,4 @@
-// this is for the 7 World Wonders scrollytelling map
+// this is for the UNDERWATER CITIES scrollytelling map
 
 var config = {
     style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
@@ -14,7 +14,7 @@ var config = {
         //Overview
         {
             id: "48d352fe5c88b29680f9ce8d7a233191",
-            title: "Introduction",
+            title: "Overview",
             description:
                 "There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. No one can predict exactly when, however, based on simple elevation maps, we can predict which major world cities are most likely to be underwater first.",
             location: {
@@ -25,7 +25,7 @@ var config = {
             },
         },
 
-        //1. Taj Mahal           The start of           "THE 7 WORLD WONDERS"
+        //1. Taj Mahal           The start of           "UNDERWATER CITIES"
         {
             id: "5c76ad75992aaac989465955479e2fb4",
             title: "1. The Taj Mahal",
