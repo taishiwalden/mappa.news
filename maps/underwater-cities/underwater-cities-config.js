@@ -3,8 +3,8 @@
 var config = {
     style: "mapbox://styles/taishiwalden/cl05rca5l005i14p5nyakwibb", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
-    title: "The Most Popular Cities to go Underwater First", //TODO
-    subtitle: "The Most Popular Cities to go Underwater First", //TODO
+    title: "The First Major Cities to go Underwater", //TODO
+    subtitle: "Cities Ranked by Population", //TODO
     byline: "By Taishi Walden", //TODO
     footer: "©2022 Taishi Walden",
     showMarkers: false,
