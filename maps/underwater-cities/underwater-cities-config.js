@@ -44,7 +44,7 @@ var config = {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "2. Osaka, Japan",
             description:
-                "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. POP SIZE: 19.22 million",
+                "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. POPULATION SIZE: 19.22 million",
             location: {
                 center: [135.39508, 34.66246],
                 zoom: 9.25,
@@ -57,7 +57,7 @@ var config = {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
             title: "3. New York City, United States",
             description:
-                "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POP SIZE: 20.15 million",
+                "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POPULATION SIZE: 20.15 million",
             location: {
                 center: [-73.98032, 40.70273],
                 zoom: 10.2,
@@ -65,40 +65,40 @@ var config = {
                 bearing: 0,
             },
         },
-        //4. Machu Picchu
+        //4. Mumbai, India
         {
             id: "qatbspsiyczc7r1pu4zqkrgru08du0g7",
-            title: "4. Machu Picchu",
+            title: "4. Mumbai, India",
             description:
-                "Located in the Eastern Cordillera of southern Peru on a 7,970 ft mountain ridge, Machu Picchu is a 15th-century Inca citadel. It is the most familiar icon of Inca civilization, and is often mistaken for the ‘Lost City of the Incas’.",
+                "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. The city's also famous as the heart of the Bollywood film industry. POPULATION SIZE: 20.19 million",
             location: {
-                center: [-74.881, -13.203],
-                zoom: 5.31,
-                pitch: 0,
-                bearing: 0,
+                center: [72.85287, 19.02606],
+                zoom: 10.47,
+                pitch: 49.5,
+                bearing: 17.6,
             },
         },
-        //5. Christ the Redeemer
+        //5. Kolkata, India
         {
             id: "ra7514ik8muffrpz80l1rl839291e1pi",
-            title: "5. Christ the Redeemer",
+            title: "5. Kolkata, India",
             description:
-                "A very well known work of art in Brazil, Christ the Redeemer is an Art Deco statue of Jesus Christ. Made of reinforced concrete and soapstone, it weighs 635 metric tons and is located at the peak of the 700-metre Corcovado mountain in the Tijuca Forest National Park overlooking the city of Rio de Janeiro. Construction began in 1922 and it was completed in 1931.",
+                "Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. POPULATION SIZE: 15 million",
             location: {
-                center: [15.712, 39.988],
-                zoom: 13.29,
+                center: [88.34671, 22.53969],
+                zoom: 11.49,
                 pitch: 0,
                 bearing: 0,
             },
         },
-        //6. Petra, Jordan
+        //6. Istanbul, Turkey
         {
             id: "bo1lysqbm6r8wu60e2e86nvmt1n5q8cl",
-            title: "6. Petra, Jordan",
+            title: "6. Istanbul, Turkey",
             description:
-                "Originally known to its inhabitants as Raqmu, Petra is a historical and archaeological city in southern Jordan. It is believed that the area around Petra was inhabited as early as 7,000 BC, and the access to the city is through a 1.2-kilometre-long gorge called the Siq, which leads directly to the Khazneh. Petra is also called as ‘Rose City’ due to the colour of the stone from which it is carved.",
+                "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. POPULATION SIZE: 15.2 million",
             location: {
-                center: [36.101, 51.216],
+                center: [28.86177, 41.04056],
                 zoom: 7,
                 pitch: 0,
                 bearing: 0,
