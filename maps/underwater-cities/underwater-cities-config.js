@@ -30,7 +30,7 @@ var config = {
             id: "5c76ad75992aaac989465955479e2fb4",
             title: "1. Tokyo, Japan",
             description:
-                "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. POP SIZE: 37.43 million || ELEVATION:",
+                "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. POP SIZE: 37.43 million || ELEVATION: 131`",
             location: {
                 center: [139.77034, 35.69222],
                 zoom: 10.4,
@@ -44,7 +44,7 @@ var config = {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "2. Osaka, Japan",
             description:
-                "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. POPULATION SIZE: 19.22 million || ELEVATION:",
+                "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. POPULATION SIZE: 19.22 million || ELEVATION: 123`",
             location: {
                 center: [135.39508, 34.66246],
                 zoom: 9.25,
@@ -57,7 +57,7 @@ var config = {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
             title: "3. New York City, United States",
             description:
-                "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POPULATION SIZE: 20.15 million || ELEVATION:",
+                "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POPULATION SIZE: 20.15 million || ELEVATION: 33′",
             location: {
                 center: [-73.98032, 40.70273],
                 zoom: 10.2,
@@ -70,7 +70,7 @@ var config = {
             id: "qatbspsiyczc7r1pu4zqkrgru08du0g7",
             title: "4. Mumbai, India",
             description:
-                "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. The city's also famous as the heart of the Bollywood film industry. POPULATION SIZE: 20.19 million || ELEVATION:",
+                "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. The city's also famous as the heart of the Bollywood film industry. POPULATION SIZE: 20.19 million || ELEVATION: 46′",
             location: {
                 center: [72.85287, 19.02606],
                 zoom: 10.47,
@@ -83,7 +83,7 @@ var config = {
             id: "ra7514ik8muffrpz80l1rl839291e1pi",
             title: "5. Kolkata, India",
             description:
-                "Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. POPULATION SIZE: 15 million || ELEVATION:",
+                "Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. POPULATION SIZE: 15 million || ELEVATION: 30′",
             location: {
                 center: [88.34671, 22.53969],
                 zoom: 11.49,
@@ -96,7 +96,7 @@ var config = {
             id: "bo1lysqbm6r8wu60e2e86nvmt1n5q8cl",
             title: "6. Istanbul, Turkey",
             description:
-                "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. POPULATION SIZE: 15.2 million || ELEVATION:",
+                "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. POPULATION SIZE: 15.2 million || ELEVATION: 131′",
             location: {
                 center: [28.86177, 41.04056],
                 zoom: 7,
@@ -109,7 +109,7 @@ var config = {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
             title: "7. Bangkok, Thailand",
             description:
-                "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple. POPULATION SIZE: 10.7 million || ELEVATION: 4.9'",
+                "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple. POPULATION SIZE: 10.7 million || ELEVATION: 4.9`",
             location: {
                 center: [100.51075, 13.70933],
                 zoom: 9.56,
