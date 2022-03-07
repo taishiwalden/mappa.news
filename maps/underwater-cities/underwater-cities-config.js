@@ -4,7 +4,7 @@ var config = {
     style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "The First 12 Major Cities to go Underwater", //TODO
-    subtitle: "Cities Ranked by Population", //TODO
+    subtitle: "Cities Ranked by Population Size", //TODO
     byline: "By Taishi Walden", //TODO
     footer: "©2022 Taishi Walden",
     showMarkers: false,
