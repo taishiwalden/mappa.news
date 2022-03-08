@@ -1,4 +1,5 @@
 // this is for the UNDERWATER CITIES scrollytelling map
+// create unique 32 alpha numeric id's: https://codebeautify.org/random-alphanumeric-generator
 
 var config = {
     style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
