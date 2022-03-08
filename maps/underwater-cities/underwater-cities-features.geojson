@@ -3,8 +3,8 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Jerusalem",
-                "description": "Jerusalem is the capital of Israel.  It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam."
+                "title": "Overview",
+                "description": "enter description"
             },
             "geometry": {
                 "coordinates": [35.216621, 31.777141],
@@ -15,8 +15,8 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Gaza Strip",
-                "description": "140 square mile strip of land controlled by Hamas since 2007 and subject to an Israeli blockade ever since, home to almost 2 million Palestinians"
+                "title": "Tokyo Japan",
+                "description": "enter description"
             },
             "geometry": {
                 "coordinates": [
@@ -37,8 +37,8 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Old City of Jerusalem",
-                "description": "Neighborhood in East Jerusalem; made up entire city until late 19th century; home to important Christian, Muslim, and Jewish religious holy sites"
+                "title": "Osaka Japan",
+                "description": "enter description"
             },
             "geometry": {
                 "coordinates": [
@@ -63,7 +63,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Al-Aqsa Mosque",
-                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+                "description": "enter description"
             },
             "geometry": {
                 "coordinates": [35.235576, 31.77625],
@@ -75,7 +75,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Al-Aqsa Mosque",
-                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+                "description": "enter description"
             },
             "geometry": {
                 "coordinates": [35.235576, 31.77625],
