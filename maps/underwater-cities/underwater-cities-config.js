@@ -55,7 +55,7 @@ var config = {
         //3. New York City, USA
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "3. New York City, United States",
+            title: "3. New York City, USA",
             description:
                 "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. POPULATION SIZE: 20.15 million || ELEVATION: 33 ft",
             location: {
@@ -156,23 +156,25 @@ var config = {
                 bearing: 0,
             },
         },
-        //11.
+        //11. Ho Chi Min City, Vietnam
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
-            title: "11. City, Country",
-            description: ". POPULATION SIZE: 10.5 million || ELEVATION: 26 ft",
+            title: "11. Ho Chi Min City, Vietnam",
+            description:
+                "Ho Chi Minh City, formerly known as Saigon, is the largest city in Vietnam, situated in the south. In the southeastern region, the city surrounds the Saigon River and covers about 2,061 km².. POPULATION SIZE: 8.8 million || ELEVATION: 63 ft",
             location: {
-                center: [110.78, 40.198],
-                zoom: 5.63,
-                pitch: 0,
+                center: [34.73083, 31.54817],
+                zoom: 7.53,
+                pitch: 25,
                 bearing: 0,
             },
         },
-        //12.
+        //12. San Francisco, USA
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
-            title: "12. City, Country",
-            description: ". POPULATION SIZE: 10.5 million || ELEVATION: 26 ft",
+            title: "12. San Francisco, USA",
+            description:
+                "San Francisco, officially the City and County of San Francisco, is a cultural, commercial, and financial center in the U.S. state of California.. POPULATION SIZE: 7.8 million || ELEVATION: 52 ft",
             location: {
                 center: [110.78, 40.198],
                 zoom: 5.63,
@@ -184,7 +186,7 @@ var config = {
         {
             id: "t8prwxafovqw4ieem0w1ymfmsqxazpav",
             title: "Summary",
-            description: "Over 130 million people (__% of the world's population) will be affected by rising sea levels.",
+            description: "Over 185 million people (~3% of the world's population) will be affected by rising sea levels in the next several decades.",
             location: {
                 center: [-35.016, 3.026],
                 zoom: 1.87,
