@@ -110,6 +110,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Jerusalem",
+                "description": "Jerusalem is the capital of Israel.  It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam."
+            },
+            "geometry": {
+                "coordinates": [35.216621, 31.777141],
+                "type": "Point"
+            },
+            "id": "48d352fe5c88b29680f9ce8d7a233191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Jerusalem",
+                "description": "Jerusalem is the capital of Israel.  It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam."
+            },
+            "geometry": {
+                "coordinates": [35.216621, 31.777141],
+                "type": "Point"
+            },
+            "id": "48d352fe5c88b29680f9ce8d7a233191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Jerusalem",
+                "description": "Jerusalem is the capital of Israel.  It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam."
+            },
+            "geometry": {
+                "coordinates": [35.216621, 31.777141],
+                "type": "Point"
+            },
+            "id": "48d352fe5c88b29680f9ce8d7a233191"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Al-Aqsa Mosque",
                 "description": "Considered the third holiest site in Islam, located in Jerusalem"
             },
