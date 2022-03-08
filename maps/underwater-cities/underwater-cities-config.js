@@ -117,37 +117,40 @@ var config = {
                 bearing: -8.81,
             },
         },
-        //8.
+        //8. Jakarta, Indonesia
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
-            title: "8. City, Country",
-            description: "Description",
+            title: "8. Jakarta, Indonesia",
+            description:
+                "Jakarta, Indonesia's massive capital, sits on the northwest coast of the island of Java. A historic mix of cultures – Javanese, Malay, Chinese, Arab, Indian and European – has influenced its architecture, language and cuisine. POPULATION SIZE: 10.5 million || ELEVATION: 26 ft",
             location: {
-                center: [110.78, 40.198],
-                zoom: 5.63,
+                center: [106.43338, -6.03199],
+                zoom: 8.28,
                 pitch: 0,
                 bearing: 0,
             },
         },
-        //9.
+        //9. London, England
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
-            title: "9. City, Country",
-            description: "description",
+            title: "9. London, England",
+            description:
+                "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. POPULATION SIZE: 9.5 million || ELEVATION: 36 ft",
             location: {
-                center: [110.78, 40.198],
-                zoom: 5.63,
-                pitch: 0,
-                bearing: 0,
+                center: [-0.13589, 51.51579],
+                zoom: 9.47,
+                pitch: 41,
+                bearing: -30.4,
             },
         },
-        //10.
+        //10. Dhaka, Bangladesh
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
-            title: "10. City, Country",
-            description: "Description",
+            title: "10. Dhaka, Bangladesh",
+            description:
+                "Dhaka is the capital city of Bangladesh, in southern Asia. Set beside the Buriganga River, it’s at the center of national government, trade and culture. POPULATION SIZE: 8.9 million || ELEVATION: 13 ft",
             location: {
-                center: [110.78, 40.198],
+                center: [90.40139, 23.79385],
                 zoom: 5.63,
                 pitch: 0,
                 bearing: 0,
@@ -157,7 +160,7 @@ var config = {
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
             title: "11. City, Country",
-            description: "description",
+            description: ". POPULATION SIZE: 10.5 million || ELEVATION: 26 ft",
             location: {
                 center: [110.78, 40.198],
                 zoom: 5.63,
@@ -169,7 +172,7 @@ var config = {
         {
             id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
             title: "12. City, Country",
-            description: "description",
+            description: ". POPULATION SIZE: 10.5 million || ELEVATION: 26 ft",
             location: {
                 center: [110.78, 40.198],
                 zoom: 5.63,
