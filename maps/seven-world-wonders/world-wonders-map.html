@@ -10,6 +10,20 @@
 
     <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
     <script src="https://unpkg.com/scrollama"></script>
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro:400,700"
+        rel="stylesheet">
+    <!-- Main CSS -->
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5KGHC26LWE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-5KGHC26LWE');
+    </script>
     <style>
         body {
             margin: 0;
@@ -35,7 +49,8 @@
             color: #fafafa;
         } */
         #header {
-            margin: 3vh auto;
+            top: 150px;
+            margin: 12vh auto;
             width: 90vw;
             padding: 2vh;
             text-align: center;
@@ -114,6 +129,52 @@
 </head>
 
 <body>
+    <!--------NAVBAR---------->
+    <nav class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="/index.html"><strong>Mappa</strong></a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02"
+                aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarColor02">
+                <!--style=""-->
+                <!-- <ul class="navbar-nav mr-auto d-flex align-items-center">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./economics.html">Economics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./tech.html">Tech</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./politics.html">Politics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./health.html">Health</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./about.html">About <span
+                                    class="badge badge-lightblue">Mappa</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./mappa-docs.html">Docs <span
+                                    class="badge badge-lightblue">Developers</span></a>
+                        </li>
+                    </ul> -->
+                <ul class="navbar-nav ml-auto d-flex align-items-center">
+                    <li class="nav-item highlight">
+                        <button class="btn btn-primary badge badge-lightblue" onclick="history.back()">&larr;
+                            Back</button>
+                    </li>
+                    <!-- <li class="nav-item highlight">
+                            <a class="nav-link" onclick="history.back()" target="_blank">&larr;
+                                Go Back</a>
+                        </li> -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navbar -->
 
     <div id="map"></div>
     <div id="story"></div>
