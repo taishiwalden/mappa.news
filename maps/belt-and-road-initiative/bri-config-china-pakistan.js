@@ -26,25 +26,24 @@ var config = {
             },
         },
 
-        //THE NEW SILK ROAD: Zoom into Beijing, China
+        //CHINA PAKISTAN CORRIDOR: begin
         {
             id: "5c76ad75992aaac989465955479e2fb4",
-            title: "Beijing",
-            description:
-                "China’s President Xi Jinping unveiled The Initiative, officially stating that the BRI aims to 'promote the connectivity of Asian, European and African continents and their adjacent seas, establish and strengthen partnerships among the countries along the Belt and Road, set up all-dimensional, multi-tiered and composite connectivity networks, and realize diversified, independent, balanced and sustainable development in these countries.'",
+            title: "Xin Jiang Region",
+            description: "China’s President Xi Jinpi realize diversified, independent, balanced and sustainable development in these countries.'",
             location: {
-                center: [115.443, 40.054],
+                center: [67.47066, 40.05495],
                 zoom: 6.86,
                 pitch: 0,
                 bearing: 0,
             },
         },
 
-        //THE NEW SILK ROAD: Xian, China            The start of           "THE NEW SILK ROAD"
+        //CHINA PAKISTAN CORRIDOR: Middle
         {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "Xian, China",
-            description: "Add text here about Xian",
+            description: "Add text here about CHINA PAKISTAN CORRIDOR",
             location: {
                 center: [103.706, 36.704],
                 zoom: 4.98,
@@ -52,11 +51,11 @@ var config = {
                 bearing: 0,
             },
         },
-        //THE NEW SILK ROAD: Almaty, Kazakhstan
+        //CHINA PAKISTAN CORRIDOR: Middle
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
             title: "Almaty, Kazakhstan",
-            description: "Add text here",
+            description: "Add text here about CHINA PAKISTAN CORRIDOR",
             location: {
                 center: [72.558, 45.62],
                 zoom: 5.19,
@@ -64,7 +63,7 @@ var config = {
                 bearing: 0,
             },
         },
-        //THE NEW SILK ROAD: Samarkand, Uzekistan
+        //CHINA PAKISTAN CORRIDOR: Middle
         {
             id: "qatbspsiyczc7r1pu4zqkrgru08du0g7",
             title: "Samarkand, Uzekistan",
