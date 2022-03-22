@@ -17,7 +17,7 @@ var config = {
             id: "48d352fe5c88b29680f9ce8d7a233191",
             title: "What is the China Pakistan Corridor?",
             description:
-                "The Belt and Road Initiative (BRI) is a global infrastructure development strategy initiated by the People's Republic of China (PRC) in 2013 to invest in nearly 70 countries and international organizations.",
+                "Beginning in 2013, CPEC is a collection of infrastructure projects that are under construction through out the China-Pakistan region.  The value of CPEC projects is worth $62 billion as of 2020.",
             location: {
                 center: [55.38174, 33.5322],
                 zoom: 4,
@@ -29,8 +29,9 @@ var config = {
         //CHINA PAKISTAN CORRIDOR: begin
         {
             id: "5c76ad75992aaac989465955479e2fb4",
-            title: "Xin Jiang Region",
-            description: "China’s President Xi Jinpi realize diversified, independent, balanced and sustainable development in these countries.'",
+            title: "Its Purpose",
+            description:
+                "The mission of this project is to upgrade Pakistan's required infrastructure and strengthen its economy. By expanding motorways, facilitating mass transit, and establishing special economic zones and energy production areas.",
             location: {
                 center: [67.47066, 40.05495],
                 zoom: 0,
@@ -42,8 +43,8 @@ var config = {
         //CHINA PAKISTAN CORRIDOR: Middle
         {
             id: "7ba8dfb2d8196a463676254236476581",
-            title: "Xian, China",
-            description: "Add text here about CHINA PAKISTAN CORRIDOR",
+            title: "How much of it is completed?",
+            description: "According to http://cpec.gov.pk/progress-update, it is currently about 73% complete.",
             location: {
                 center: [103.706, 36.704],
                 zoom: 0,
