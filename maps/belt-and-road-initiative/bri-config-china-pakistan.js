@@ -4,7 +4,7 @@ var config = {
     style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "The Belt and Road Initiative", //TODO
-    subtitle: "The New Silk Road", //TODO
+    subtitle: "The China Pakistan Corridor", //TODO
     byline: "By Taishi Walden", //TODO
     footer: "©2022 Taishi Walden",
     showMarkers: false,
