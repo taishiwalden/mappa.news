@@ -1,11 +1,11 @@
 // this is for the Belt And Road Initiative scrollytelling map
-// The China Pakistan Corridor
+// Maritime Silk road
 
 var config = {
     style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "The Belt and Road Initiative", //TODO
-    subtitle: "The China Pakistan Corridor", //TODO
+    subtitle: "The Maritime Silk Road", //TODO
     byline: "By Taishi Walden", //TODO
     footer: "©2022 Taishi Walden",
     showMarkers: false,
@@ -15,14 +15,14 @@ var config = {
         //Afro-Eurasia Overview
         {
             id: "48d352fe5c88b29680f9ce8d7a233191",
-            title: "What is the China Pakistan Corridor?",
+            title: "What is the Maritime Silk Road?",
             description:
-                "The Belt and Road Initiative (BRI) is a global infrastructure development strategy initiated by the People's Republic of China (PRC) in 2013 to invest in nearly 70 countries and international organizations.",
+                "The Maritime Silk Road is a global infrastructure development strategy initiated by the People's Republic of China (PRC) in 2013 to invest in nearly 70 countries and international organizations.",
             location: {
-                center: [55.38174, 33.5322],
-                zoom: 4,
-                pitch: 38,
-                bearing: 0,
+                center: [116.5369, 19.68178],
+                zoom: 3.73,
+                pitch: 50,
+                bearing: -13,
             },
         },
 
