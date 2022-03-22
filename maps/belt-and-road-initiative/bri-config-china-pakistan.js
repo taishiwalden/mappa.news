@@ -33,7 +33,7 @@ var config = {
             description: "China’s President Xi Jinpi realize diversified, independent, balanced and sustainable development in these countries.'",
             location: {
                 center: [67.47066, 40.05495],
-                zoom: 6.86,
+                zoom: 0,
                 pitch: 0,
                 bearing: 0,
             },
@@ -46,7 +46,7 @@ var config = {
             description: "Add text here about CHINA PAKISTAN CORRIDOR",
             location: {
                 center: [103.706, 36.704],
-                zoom: 4.98,
+                zoom: 0,
                 pitch: 0,
                 bearing: 0,
             },
@@ -58,7 +58,7 @@ var config = {
             description: "Add text here about CHINA PAKISTAN CORRIDOR",
             location: {
                 center: [72.558, 45.62],
-                zoom: 5.19,
+                zoom: 0,
                 pitch: 0,
                 bearing: 0,
             },
