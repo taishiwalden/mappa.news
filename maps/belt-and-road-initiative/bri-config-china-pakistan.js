@@ -44,7 +44,7 @@ var config = {
         {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "How much of it is completed?",
-            description: "According to http://cpec.gov.pk/progress-update, it is currently about 73% complete.",
+            description: "According to 'cpec.gov.pk/progress-update', it is currently about 73% complete.",
             location: {
                 center: [103.706, 36.704],
                 zoom: 0,
