@@ -4,7 +4,7 @@
 var config = {
     style: "mapbox://styles/taishiwalden/cl0h4z6dg004u15m6i0j5jkh6", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
-    title: "SWIFT, CIPS, and SPFS", //TODO
+    title: "SWIFT", //TODO
     subtitle: "Circumventing Sanctions: Russia and China", //TODO
     byline: "By Dave Moleske", //TODO
     footer: "©2022 Dave Moleske",
