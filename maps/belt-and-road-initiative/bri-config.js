@@ -95,7 +95,8 @@ var config = {
     {
       id: "bo1lysqbm6r8wu60e2e86nvmt1n5q8cl",
       title: "Tehran, Iran",
-      description: "Add text here",
+      description:
+        "In 2020 Iran was the number 49 economy in the world in terms of GDP (current US$), the number 71 in total imports, the number 142 economy in terms of GDP per capita (current US$) and the number 65 most complex economy according to the Economic Complexity Index (ECI). he top exports of Iran are Ethylene Polymers ($2.17B), Crude Petroleum ($1.18B), Other Nuts ($913M), Acyclic Alcohols ($832M), and Semi-Finished Iron ($595M).",
       location: {
         center: [51.216, 36.101],
         zoom: 7,
