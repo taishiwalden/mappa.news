@@ -43,7 +43,8 @@ var config = {
     {
       id: "t8prwxafovqw4ieem0w1ymfmsqxazpav",
       title: "Islamabad, Pakistan",
-      description: "Add text here",
+      description:
+        "Pakistan and China have a strategic relationship that goes back decades. It was then only natural that Pakistan would turn to China at a time when it needed a rapid increase in external financing to meet critical investments in hard infrastructure, particularly power plants and highways. CPEC’s early harvest projects met this need, leading to a dramatic increase in Pakistan’s power generation capacity, bringing an end to supply-side constraints that had made rolling blackouts a regular occurrence across the country.",
       location: {
         center: [68.10577, 27.22365],
         zoom: 6.3,
